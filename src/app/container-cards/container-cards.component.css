@@ -1,0 +1,17 @@
+.aboutMeCard{
+    /* background-image: url("../../../images/profile_picture_placeholder.jpeg");
+    background-position: center; */
+    width:40%;
+    padding:30px;
+    box-shadow:30px;
+
+}
+
+.aboutMeCard:hover{
+    box-shadow:30px;
+}
+
+#aboutMeCardContainer{
+    width:40%;
+    padding:30px;
+}
